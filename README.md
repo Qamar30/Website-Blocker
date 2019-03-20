@@ -1,5 +1,5 @@
 # Website-Blocker
-a simple script written in python to block harmful or offensive websites.
+A simple script written in python to block harmful or offensive websites.
 
 # Installing dependencies
 Installing dependencies is the first thing you want to do.
